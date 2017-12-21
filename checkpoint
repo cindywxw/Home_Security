@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/deepsee/PycharmProjects/tf_examples/faceRecog.ckpt"
+all_model_checkpoint_paths: "/home/deepsee/PycharmProjects/tf_examples/faceRecog.ckpt"
